@@ -1,186 +1,239 @@
- <h2 align="left">Hi 👋! My name is Ankit Kumar and I'm a full stack developer, from india</h2>
+# 🌌 **ANKIT KUMAR** 🌌
+## `Full Stack Developer | Cyberpunk Enthusiast | Code Artist`
 
-###
+```
+████████████████████████████████████████████
+█                                          █
+█  ⚡ WELCOME TO MY DIGITAL DOMAIN ⚡     █
+█  > Status: ONLINE                       █
+█  > Matrix: ACTIVATED                    █
+█  > Level: INTERMEDIATE HACKER           █
+█                                          █
+████████████████████████████████████████████
+```
+
+---
+
+## 📡 **SYSTEM STATUS**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=INITIATING+NEURAL+INTERFACE...;LOADING+DEVELOPER+PROFILE...;SYNCING+WITH+MAINFRAME...;STATUS%3A+READY+FOR+DEPLOYMENT+%E2%9A%A1)](https://git.io/typing-svg)
+
+<img src="https://github-readme-stats.vercel.app/api?username=AnkitKumar-222&show_icons=true&theme=synthwave&hide_border=true&title_color=00FF00&text_color=00FF00&bg_color=0D1117&icon_color=00FF00" alt="GitHub Stats" height="200"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnkitKumar-222&layout=compact&theme=synthwave&hide_border=true&title_color=00FF00&text_color=00FF00&bg_color=0D1117" alt="Top Languages" height="200"/>
+
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-
-
-
-# 👋 Hi, I'm Ankit Kumar
-
-**Full Stack Developer | JavaScript | Python | Web Technologies**
-
-I'm passionate about building beautiful, scalable web applications and sharing knowledge with the community. Based in India 🇮🇳
 
 ---
 
-## 📊 GitHub Statistics
+## 🔮 **NEURAL IMPLANTS** (Tech Stack)
+
+```
+╔════════════════════════════════════════════════════╗
+║           SYSTEM CORE INSTALLATION                 ║
+╚════════════════════════════════════════════════════╝
+```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkitKumar-222&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnkitKumar-222&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="180"/>
+
+### 🎮 **LANGUAGES**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
+<img width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript"/>
+<img width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
+<img width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#"/>
+
+### 🎨 **FRONTEND ARSENAL**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React"/>
+<img width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js"/>
+<img width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5"/>
+<img width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3"/>
+
+### ⚙️ **BACKEND SYSTEMS**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js"/>
+<img width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express"/>
+<img width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB"/>
+
+### 🛠️ **DEPLOYMENT TOOLS**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker"/>
+<img width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/>
+<img width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code"/>
+
+</div>
+
+```
+╔════════════════════════════════════════════════════╗
+║    ALL SYSTEMS OPERATIONAL ✓                       ║
+╚════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🌐 **CONNECT TO THE NETWORK**
+
+<div align="center">
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000)](https://www.youtube.com/channel/YOUR_CHANNEL)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://www.instagram.com/YOUR_PROFILE)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=000000)](https://www.twitch.tv/YOUR_CHANNEL)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.gg/YOUR_SERVER)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/YOUR_PROFILE)
+
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 **ACTIVITY MATRIX**
 
-<div align="left">
-  <h3>Languages:</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#" />
+<div align="center">
 
-  <h3>Frontend:</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnkitKumar-222&theme=synthwave&hide_border=true)](https://github.com/AnkitKumar-222)
 
-  <h3>Tools & Platforms:</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code" />
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 **MISSION BRIEFING**
 
-<div align="left">
-  <a href="https://www.youtube.com/channel/YOUR_CHANNEL" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://www.instagram.com/YOUR_PROFILE" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.twitch.tv/YOUR_CHANNEL" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
-  </a>
-  <a href="https://discord.gg/YOUR_SERVER" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="mailto:your.email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_PROFILE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+```
+> OBJECTIVE_01: Build scalable web applications
+> OBJECTIVE_02: Master full-stack technologies
+> OBJECTIVE_03: Contribute to open-source ecosystem
+> OBJECTIVE_04: Share knowledge with the community
+> OBJECTIVE_05: Create innovative solutions
+```
+
+<div align="center">
+
+```
+🔭 Currently hacking on full-stack web applications
+🌱 Deep diving into cyberpunk tech trends
+💬 Ask me: JavaScript | React | Python | Web Dev
+⚡ Coding mantra: "Keep it fast, keep it clean"
+🎮 Weekend ritual: Code streams & open source
+```
+
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 🚀 **FEATURED OPERATIONS**
 
-<!--
-[![Ankit Kumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnkitKumar-222&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
--->
+<div align="center">
 
----
+### 🛸 **PROJECT_ALPHA**
+`[Advanced Full-Stack Architecture]`
+```
+Status: IN_PROGRESS | Impact: HIGH | Priority: CRITICAL
+```
+[Explore Repository](https://github.com/AnkitKumar-222/project1)
 
-## 🎯 About Me
+### 🛸 **PROJECT_BETA**
+`[Real-time Data Pipeline]`
+```
+Status: COMPLETED | Impact: MEDIUM | Priority: HIGH
+```
+[Explore Repository](https://github.com/AnkitKumar-222/project2)
 
-- 🔭 Currently working on full-stack web applications
-- 🌱 Always learning new technologies and best practices
-- 💬 Ask me about JavaScript, React, Python, and Web Development
-- ⚡ Fun fact: I love building projects that solve real-world problems
-- 🎮 In my spare time, I code, stream, and contribute to open source
+### 🛸 **PROJECT_GAMMA**
+`[Machine Learning Integration]`
+```
+Status: IN_TESTING | Impact: CRITICAL | Priority: EXTREME
+```
+[Explore Repository](https://github.com/AnkitKumar-222/project3)
 
----
-
-## 📌 Featured Projects
-
-<!-- Add your top projects here -->
-
-### [Project 1 Name](https://github.com/AnkitKumar-222/project1)
-Brief description of your project...
-
-### [Project 2 Name](https://github.com/AnkitKumar-222/project2)
-Brief description of your project...
-
-### [Project 3 Name](https://github.com/AnkitKumar-222/project3)
-Brief description of your project...
+</div>
 
 ---
 
-## 💡 Latest Blog Posts
+## 🌌 **LIVE FEED**
+
+```
+╔════════════════════════════════════════════════════╗
+║              LATEST TRANSMISSIONS                   ║
+╚════════════════════════════════════════════════════╝
+```
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-## 📊 Contribution Stats
+## 💀 **COMBAT STATISTICS**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitKumar-222&theme=dracula&hide_border=true" alt="GitHub Streak" />
+
+| Metric | Status |
+|--------|--------|
+| **Total Commits** | ⚡ LOADING... |
+| **Repositories** | 🔥 RISING |
+| **Contributions** | 📈 ACCELERATING |
+| **Followers** | 👥 NETWORK GROWING |
+
+</div>
+
+---
+
+## 🎪 **THE SHOW MUST GO ON**
+
+<div align="center">
+
+```
+████████████████████████████████████████████
+█                                          █
+█  ᖙ̸͜ͅ ᖚ̸͜ͅ ᖙ̸͜ͅ ᖚ̸͜ͅ ᖙ̸͜ͅ ᖚ̸͜ͅ ᖙ̸͜ͅ          █
+█  NEURAL PATTERN DETECTED                 █
+█  > 01001010 01001111 01001001 01001110   █
+█  > JOINING NETWORK...                    █
+█  > WELCOME ABOARD, CHOOM                 █
+█                                          █
+█  ᖙ̸͜ͅ ᖚ̸͜ͅ ᖙ̸͜ͅ ᖚ̸͜ͅ ᖙ̸͜ͅ ᖚ̸͜ͅ ᖙ̸͜ͅ          █
+█                                          █
+████████████████████████████████████████████
+```
+
+</div>
+
+---
+
+## 👁️ **SENSOR ARRAY**
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=AnkitKumar-222&style=flat-square&color=00FF00&label=NEURAL_SCANS)
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AnkitKumar-222/AnkitKumar-222/output/snake.svg" alt="Snake animation" />
-</div>
+
+### 🎯 **LET'S COLLABORATE & BUILD SOMETHING EPIC** 🎯
+
+**`> ssh ankit@cyber.dev`**
+
+```
+Connection established ✓
+Welcome to the neural network
+Ready for deployment
+```
 
 ---
 
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=AnkitKumar-222&style=flat-square&color=blue)
+**Made with 🔥 and a cup of ☕ by Ankit Kumar**
 
+[![GitHub followers](https://img.shields.io/github/followers/AnkitKumar-222?style=social)](https://github.com/AnkitKumar-222)
+
+</div>
