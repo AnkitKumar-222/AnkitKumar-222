@@ -90,11 +90,11 @@
 <div align="center">
 
 [![YouTube](https://img.shields.io/badge/🎬-YOUTUBE-FF0000?style=for-the-badge&labelColor=000000)](https://www.youtube.com/YOUR_CHANNEL)
-[![Instagram](https://img.shields.io/badge/📸-INSTAGRAM-E4405F?style=for-the-badge&labelColor=000000)](https://www.instagram.com/YOUR_PROFILE)
-[![Twitch](https://img.shields.io/badge/🎮-TWITCH-9146FF?style=for-the-badge&labelColor=000000)](https://www.twitch.tv/YOUR_CHANNEL)
+[![Instagram](https://img.shields.io/badge/📸-INSTAGRAM-E4405F?style=for-the-badge&labelColor=000000)](https://www.instagram.com/a.k___ankittttt___03?igsh=MWtuNmJnbDhlamNzbg==)
+[![Twitch](https://img.shields.io/badge/🎮-TWITCH-9146FF?style=for-the-badge&labelColor=000000)](https://x.com/AnkitKumar_dev)
 [![Discord](https://img.shields.io/badge/💬-DISCORD-7289DA?style=for-the-badge&labelColor=000000)](https://discord.gg/YOUR_SERVER)
 [![Email](https://img.shields.io/badge/✉️-EMAIL-FF006E?style=for-the-badge&labelColor=000000)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼-LINKEDIN-0077B5?style=for-the-badge&labelColor=000000)](https://www.linkedin.com/in/YOUR_PROFILE)
+[![LinkedIn](https://img.shields.io/badge/💼-LINKEDIN-0077B5?style=for-the-badge&labelColor=000000)](https://www.linkedin.com/in/ankit-kumar-355147244)
 
 </div>
 
