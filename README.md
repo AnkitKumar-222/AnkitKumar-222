@@ -67,23 +67,44 @@
 
 <div align="center">
 
-### 🛒 **[Travel_Planner_Agent](https://github.com/AnkitKumar-222/Travel_Planner_Agent)**
-Travel_Planner_Agent solution with Pythob, Panda .
+## 🚀 Featured Projects
 
-### 💬 **[Real-Time Chat Application](https://github.com/AnkitKumar-222/chat-app)**
-WebSocket-based chat platform featuring real-time messaging, user authentication, and MongoDB persistence.
+<div align="center">
 
-### 🎬 **[Streaming Platform](https://github.com/AnkitKumar-222/streaming-platform)**
-Video streaming application built with Next.js, Firebase, and FFmpeg for multi-format video support.
+### 💼 **[Ankit Kumar Portfolio](https://github.com/AnkitKumar-222/Ankit-Kumar-portfolio)**
+🌐 **Live:** [ankit-kumar-portfolio-kappa.vercel.app](https://ankit-kumar-portfolio-kappa.vercel.app)  
+Cyberpunk-themed personal portfolio built with React.js + Vite, deployed on Vercel. Features 14+ projects, AI/ML work, internship experience, and complete tech stack showcase. Single config.js for easy updates and auto-deployment.  
+**Stack:** React, Vite, HTML, CSS, Vercel
+
+### 🤖 **[AI Internship Projects](https://github.com/AnkitKumar-222/AI-Internship)**
+Hands-on AI/ML projects from internship including Spam Email Classifier, Face Detection App, Sentiment Analysis, and Handwritten Digit Recognizer. Gained expertise in machine learning, NLP, computer vision, and deep learning.  
+**Stack:** Python, Scikit-learn, OpenCV, TensorFlow, Machine Learning
+
+### 🧳 **[Travel Planner Agent](https://github.com/AnkitKumar-222/Travel_Planner_Agent)**
+Intelligent travel planning agent powered by AI. Generates smart itineraries, destination recommendations, and optimized travel plans using advanced algorithms and data processing.  
+**Stack:** Python, Pandas, AI/ML
 
 ### 📚 **[Java DSA Mastery](https://github.com/AnkitKumar-222/-Data-Structures-Algorithms-DSA-with-Java)**
-Comprehensive Data Structures & Algorithms implementation in Java — interview-ready solutions with complexity analysis.
+Comprehensive Data Structures & Algorithms implementation in Java — 50+ algorithms, interview-ready solutions, detailed complexity analysis, and production-grade code. Perfect for competitive programming and technical interviews.  
+**Stack:** Java, Data Structures, Algorithms, MIT Licensed
 
-> 🔗 **[View All Projects →](https://github.com/AnkitKumar-222?tab=repositories)**
+---
+
+### 📊 Projects Overview
+
+| Project | Language | Stars | Status | Purpose |
+|---------|----------|-------|--------|---------|
+| Portfolio | HTML/React | 1 ⭐ | 🟢 Active | Personal Branding |
+| AI Internship | Python | 1 ⭐ | 🟢 Maintained | Machine Learning |
+| Travel Planner | Python | 1 ⭐ | 🟢 Active | AI Agent |
+| Java DSA | Java | 1 ⭐ | 🟢 Active | Interview Prep |
+
+> 🔗 **[Explore All Projects →](https://github.com/AnkitKumar-222?tab=repositories)**
 
 </div>
 
 ---
+
 
 ## 🌐 Connect With Me
 
