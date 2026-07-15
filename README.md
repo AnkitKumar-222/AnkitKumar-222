@@ -101,16 +101,6 @@ Comprehensive Data Structures & Algorithms implementation in Java — 50+ algori
 
 ---
 
-## 🏆 Competitive Programming & Problem Solving
-
-<div align="center">
-
-### 🎯 LeetCode - Problem Solving Master
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/AnkitKumar-222/)
-- Solving algorithmic challenges daily
-- Focused on DSA optimization
-- Interview preparation
-
 ## 🌐 Connect With Me
 
 <p align="center">
