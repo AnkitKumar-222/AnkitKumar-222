@@ -1,24 +1,30 @@
-<h1 align="center">Hi, I'm Ankit Kumar 👋</h1>
-
-<h3 align="center">Full-Stack Developer | Building clean, functional web applications</h3>
+<h1 align="center">⚡ ANKIT KUMAR ⚡</h1>
+<h3 align="center">Full-Stack Developer // Code Ninja // Bug Terminator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E86DE&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%26+Node.js+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=22&pause=1000&color=FF006E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%2B+Node.js+Enthusiast;Compiling+Ideas+Into+Reality" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="0" height="0" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🧠 SYSTEM PROFILE
 
-- 💼 Full-stack developer working across the MERN/Next.js ecosystem
-- 🔭 Currently building projects in web development and exploring new tools
-- 🌱 Always learning — currently leveling up my backend and system design skills
-- 💬 Ask me about React, Node.js, or JavaScript in general
-- 📫 Reach me at **ankit.kumar.official115@gmail.com**
+```
+> whoami
+Full-stack developer working across the MERN / Next.js stack
+> current_mission
+Building projects, leveling up backend skills, breaking (and fixing) things
+> status
+Always learning. Always shipping.
+```
 
 ---
 
-### 🛠️ Tech Stack
+## 🎨 TECH ARSENAL
 
 **Frontend**
 
@@ -43,47 +49,55 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 STATS DASHBOARD
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkitKumar-222&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitKumar-222&layout=compact&theme=default&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkitKumar-222&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF006E&icon_color=FF006E" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitKumar-222&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF006E" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AnkitKumar-222&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-**[Project Name 1](https://github.com/AnkitKumar-222/project1)**
-Full-stack e-commerce application — replace with a one-line description of what it does and the stack used.
-
-**[Project Name 2](https://github.com/AnkitKumar-222/project2)**
-Real-time chat application — replace with a one-line description of what it does and the stack used.
-
-**[Project Name 3](https://github.com/AnkitKumar-222/project3)**
-Streaming platform — replace with a one-line description of what it does and the stack used.
-
-> Swap these three placeholders for your actual repo names and descriptions whenever you're ready — everything else on the page will keep working as-is.
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ankit-kumar-355147244"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/AnkitKumar_dev"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.instagram.com/a.k___ankittttt___03"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:ankit.kumar.official115@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://streak-stats.demolab.com/?user=AnkitKumar-222&theme=radical&hide_border=true&background=0D1117&stroke=FF006E&ring=FF006E&fire=FF006E" alt="GitHub Streak" />
 </p>
 
 ---
 
+## 🚀 FLAGSHIP PROJECTS
+
+### 🛸 `PROJECT_ALPHA`
+> Full-stack e-commerce app — swap in your real repo name + one-line pitch.
+
+**[→ LAUNCH REPO](https://github.com/AnkitKumar-222/project1)**
+
+### 🛸 `PROJECT_BETA`
+> Real-time chat application — swap in your real repo name + one-line pitch.
+
+**[→ LAUNCH REPO](https://github.com/AnkitKumar-222/project2)**
+
+### 🛸 `PROJECT_GAMMA`
+> Streaming platform — swap in your real repo name + one-line pitch.
+
+**[→ LAUNCH REPO](https://github.com/AnkitKumar-222/project3)**
+
+> Placeholders for now — drop in your actual repo names/descriptions whenever you're ready.
+
+---
+
+## 🌐 CONNECT
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnkitKumar-222&style=flat-square&color=2E86DE&label=Profile+Views" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/ankit-kumar-355147244"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" /></a>
+  <a href="https://x.com/AnkitKumar_dev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=FF006E" /></a>
+  <a href="https://www.instagram.com/a.k___ankittttt___03"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" /></a>
+  <a href="mailto:ankit.kumar.official115@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF006E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" /></a>
 </p>
 
-<p align="center"><i>Thanks for stopping by — always open to collaborating on interesting projects.</i></p>
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnkitKumar-222&style=for-the-badge&color=FF006E&label=NEURAL+CONNECTIONS" alt="Profile Views" />
+</p>
+
+<p align="center"><b>⚡ STAY AWESOME. KEEP CODING. NEVER STOP LEARNING. 🚀</b></p>
+
+<p align="center"><i>Last compiled: 2026</i></p>
