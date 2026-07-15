@@ -1,173 +1,236 @@
-<h1 align="center">Hi, I'm Ankit Kumar 👋</h1>
-
-<h3 align="center">🚀 Full-Stack Developer | Clean Code Advocate | DSA Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FF006E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%26+Node.js+Expert;Data+Structures+%26+Algorithms;Building+Scalable+Solutions;Always+Learning+%26+Growing" alt="Typing SVG" />
-</p>
+# <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=45&duration=2000&pause=500&color=FF006E&center=true&vCenter=true&width=1000&height=120&lines=🔥+ANKIT+KUMAR+🔥;⚡+CYBERPUNK+DEVELOPER+⚡;🚀+CODE+NINJA+INCOMING+🚀;💻+READY+TO+DESTROY+BUGS+💻" alt="Typing SVG" />
 
 ---
 
-## 🧑‍💻 About Me
-
-- 💼 **Full-Stack Developer** — Crafting robust applications across MERN, Next.js, and modern web stacks
-- 🔭 **Currently Building** — Scalable web applications and mastering DSA with Java
-- 🚀 **Passionate About** — Clean architecture, performance optimization, and algorithmic problem-solving
-- 📚 **Learning Focus** — Advanced backend systems, system design, and competitive programming
-- 💡 **Open to** — Collaborations, code reviews, and knowledge sharing
-- 📧 **Contact** — [ankit.kumar.official115@gmail.com](mailto:ankit.kumar.official115@gmail.com)
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Frontend Technologies
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend Technologies
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗄️ Databases & Tools
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnkitKumar-222&show_icons=true&theme=radical&hide_border=true&title_color=FF006E&text_color=00FF00&icon_color=FF006E&bg_color=0d1117&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitKumar-222&layout=compact&theme=radical&hide_border=true&title_color=FF006E&text_color=00FF00&bg_color=0d1117" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AnkitKumar-222&theme=radical&hide_border=true&stroke=FF006E&background=0D1117" alt="GitHub Streak" />
-</p>
-
----
-
-## 🚀 Featured Projects
+## 🌀 **WELCOME TO THE DIGITAL REALM** 🌀
 
 <div align="center">
 
-### 🛒 **[E-Commerce Platform](https://github.com/AnkitKumar-222/ecommerce-app)**
-Full-stack e-commerce solution with React, Node.js, MongoDB, Stripe integration, and real-time inventory management.
-
-### 💬 **[Real-Time Chat Application](https://github.com/AnkitKumar-222/chat-app)**
-WebSocket-based chat platform featuring real-time messaging, user authentication, and MongoDB persistence.
-
-### 🎬 **[Streaming Platform](https://github.com/AnkitKumar-222/streaming-platform)**
-Video streaming application built with Next.js, Firebase, and FFmpeg for multi-format video support.
-
-### 📚 **[Java DSA Mastery](https://github.com/AnkitKumar-222/java-dsa)**
-Comprehensive Data Structures & Algorithms implementation in Java — interview-ready solutions with complexity analysis.
-
-> 🔗 **[View All Projects →](https://github.com/AnkitKumar-222?tab=repositories)**
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWoLvq1/giphy.gif" width="200" alt="Fire Animation"/>
+<img src="https://media.giphy.com/media/5eM8bO0psBgZa3u6Jl/giphy.gif" width="200" alt="Matrix"/>
+<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="200" alt="Hacker"/>
 
 </div>
 
 ---
 
-## 📈 Key Skills & Expertise
+## ✨ **SYSTEM BOOT SEQUENCE**
 
-| Category | Skills | Proficiency |
-|----------|--------|-------------|
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, Redux | ⭐⭐⭐⭐⭐ |
-| **Backend** | Node.js, Express, REST APIs, Authentication | ⭐⭐⭐⭐⭐ |
-| **Databases** | MongoDB, PostgreSQL, Firebase, Redis | ⭐⭐⭐⭐☆ |
-| **DevOps & Tools** | Docker, Git, GitHub Actions, Deployment | ⭐⭐⭐⭐☆ |
-| **DSA & Algorithms** | Java, Problem-Solving, System Design | ⭐⭐⭐⭐☆ |
-| **Problem-Solving** | Debugging, Optimization, Architecture | ⭐⭐⭐⭐⭐ |
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=1500&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=50&lines=⚡+INITIALIZING+NEURAL+NETWORK...;🔓+FIREWALL+BREACH+SUCCESSFUL...;💻+LOADING+DEVELOPER+MATRIX...;🎮+HACKER+MODE+ACTIVATED...;✅+ALL+SYSTEMS+GO!)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 📊 **REAL-TIME STATS DASHBOARD** 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ankit-kumar-355147244">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/AnkitKumar_dev">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/a.k___ankittttt___03">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://github.com/AnkitKumar-222">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:ankit.kumar.official115@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AnkitKumar-222&show_icons=true&theme=radical&hide_border=true&title_color=FF006E&text_color=00FF00&icon_color=FF006E&bg_color=0d1117&cache_seconds=1800" alt="GitHub Stats" height="220"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnkitKumar-222&layout=compact&theme=radical&hide_border=true&title_color=FF006E&text_color=00FF00&bg_color=0d1117" alt="Top Languages" height="220"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitKumar-222&theme=radical&hide_border=true&stroke=FF006E&background=0D1117" alt="GitHub Streak" height="220"/>
+
+</div>
 
 ---
 
-## 🎯 Currently Working On
+## 🎨 **TECH ARSENAL - NEON EDITION**
 
-- 🔥 **Advanced DSA with Java** — Mastering algorithms and data structures for technical interviews
-- 🏗️ **System Design** — Building scalable, distributed systems
-- 📱 **Full-Stack Projects** — Real-world applications with modern tech stacks
-- 🤖 **Performance Optimization** — Making applications faster and more efficient
+<div align="center">
+
+### 💥 **FRONTEND WARRIORS**
+
+<img src="https://media.giphy.com/media/eNAsjUP76GRo4/giphy.gif" width="40" alt="loading"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70" alt="React"/>
+<img width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="70" alt="Next.js"/>
+<img width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70" alt="HTML5"/>
+<img width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70" alt="CSS3"/>
+<img width="20"/>
+<img src="https://media.giphy.com/media/eNAsjUP76GRo4/giphy.gif" width="40" alt="loading"/>
+
+### ⚙️ **BACKEND LEGENDS**
+
+<img src="https://media.giphy.com/media/eNAsjUP76GRo4/giphy.gif" width="40" alt="loading"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="JavaScript"/>
+<img width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="70" alt="TypeScript"/>
+<img width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" alt="Python"/>
+<img width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="70" alt="Node.js"/>
+<img width="20"/>
+<img src="https://media.giphy.com/media/eNAsjUP76GRo4/giphy.gif" width="40" alt="loading"/>
+
+### 🛠️ **POWER TOOLS**
+
+<img src="https://media.giphy.com/media/eNAsjUP76GRo4/giphy.gif" width="40" alt="loading"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="70" alt="MongoDB"/>
+<img width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="70" alt="Docker"/>
+<img width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70" alt="Git"/>
+<img width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="70" alt="VS Code"/>
+<img width="20"/>
+<img src="https://media.giphy.com/media/eNAsjUP76GRo4/giphy.gif" width="40" alt="loading"/>
+
+</div>
 
 ---
 
-## 💡 What Drives Me
+## 🌐 **CONNECT VIA THE NETWORK**
 
-> *"Code is poetry. Clean code is a masterpiece. Great algorithms are symphonies."*
+<div align="center">
 
-I believe in:
-- ✨ Writing clean, maintainable, and efficient code
-- 🚀 Building products that solve real-world problems
-- 📚 Continuous learning and skill development
-- 🤝 Helping others grow in their tech journey
-- 🎯 Obsessing over performance and user experience
+[![YouTube](https://img.shields.io/badge/🎬-YOUTUBE-FF0000?style=for-the-badge&labelColor=000000)](https://www.youtube.com/YOUR_CHANNEL)
+[![Instagram](https://img.shields.io/badge/📸-INSTAGRAM-E4405F?style=for-the-badge&labelColor=000000)](https://www.instagram.com/a.k___ankittttt___03?igsh=MWtuNmJnbDhlamNzbg==)
+[![Twitch](https://img.shields.io/badge/🎮-TWITCH-9146FF?style=for-the-badge&labelColor=000000)](https://x.com/AnkitKumar_dev)
+[![Discord](https://img.shields.io/badge/💬-DISCORD-7289DA?style=for-the-badge&labelColor=000000)](https://discord.gg/K3WV8kJ8)
+[![Email](https://img.shields.io/badge/✉️-EMAIL-FF006E?style=for-the-badge&labelColor=000000)](mailto:ankit.kumar.official115@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼-LINKEDIN-0077B5?style=for-the-badge&labelColor=000000)](https://www.linkedin.com/in/ankit-kumar-355147244)
 
----
-
-## 📞 Let's Collaborate!
-
-I'm **always excited** about:
-- 🤝 Contributing to open-source projects
-- 💼 Building amazing products together
-- 👨‍🏫 Sharing knowledge and mentoring
-- 🚀 Exploring cutting-edge technologies
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnkitKumar-222&style=flat-square&color=FF006E&label=Profile+Views" alt="Profile Views" />
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWoLvq1/giphy.gif" width="150" alt="Fire"/>
-</p>
+## 🎯 **MISSION STATUS: IN PROGRESS**
 
-<p align="center">
-  <strong>⭐ If you found something useful, feel free to star the repo! ⭐</strong>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>💬 Always open to feedback, collaborations, and new opportunities. Let's build something amazing together!</i>
-</p>
 
-<p align="center">
-  <strong>Made with ❤️ by Ankit Kumar | © 2026</strong>
-</p>
+
+</div>
+
+---
+
+## 🚀 **FLAGSHIP PROJECTS**
+
+<div align="center">
+
+### 🛸 **PROJECT ALPHA** 
+> **Full-Stack E-Commerce Powerhouse**
+
+[🚀 LAUNCH REPO](https://github.com/AnkitKumar-222/project1)
+
+---
+
+### 🛸 **PROJECT BETA**
+> **Real-Time Chat Application**
+
+[🚀 LAUNCH REPO](https://github.com/AnkitKumar-222/project2)
+
+---
+
+### 🛸 **PROJECT GAMMA**
+> **AI-Powered Streaming Platform**
+
+ 
+[🚀 LAUNCH REPO](https://github.com/AnkitKumar-222/project3)
+
+</div>
+
+---
+
+## 💀 **LEGENDARY STATS**
+
+<div align="center">
+
+
+</div>
+
+---
+
+## 🎪 **NEURAL NETWORK LIVE FEED**
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="300" alt="Hacker Mode"/>
+
+
+
+</div>
+
+---
+
+## 🌟 **ABOUT THE LEGEND**
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3o7TKvjxRbzyx1T5BS/giphy.gif" width="200" alt="Legendary"/>
+
+### *"Code like your life depends on it, because it does! ☕💻"*
+
+
+
+</div>
+
+---
+
+## 🎁 **SPECIAL ABILITIES UNLOCKED**
+
+<div align="center">
+
+| Ability | Level | Mastery |
+|---------|-------|---------|
+| **Full-Stack Development** | 🟢🟢🟢🟢🟡 | 90% |
+| **Frontend Wizardry** | 🟢🟢🟢🟢🟢 | 95% |
+| **Backend Architecture** | 🟢🟢🟢🟢🟡 | 85% |
+| **Bug Destruction** | 🟢🟢🟢🟢🟢 | 99% |
+| **Problem Solving** | 🟢🟢🟢🟢🟡 | 88% |
+| **Coffee Brewing** | 🟢🟢🟢🟢🟢 | 100% |
+
+</div>
+
+---
+
+## 📡 **NETWORK ACTIVITY MONITOR**
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=AnkitKumar-222&style=flat-square&color=FF006E&label=⚡_NEURAL_CONNECTIONS)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 **LET'S CONQUER THE CODE WORLD TOGETHER** 🔥
+
+<img src="https://media.giphy.com/media/l0HlTy9x9JOcVlrOg/giphy.gif" width="250" alt="Epic Battle"/>
+
+---
+
+### **`> INITIATING COLLABORATION SEQUENCE...`**
+
+
+
+---
+
+### 🎬 **MADE WITH 🔥 PASSION, 💻 DEDICATION, & ☕ COFFEE**
+
+<img src="https://media.giphy.com/media/7FgYw9TAy3UX7o4m78/giphy.gif" width="200" alt="Magic"/>
+
+---
+
+**STAY AWESOME. KEEP CODING. NEVER STOP LEARNING.** 🚀
+
+[![GitHub followers](https://img.shields.io/github/followers/AnkitKumar-222?style=social&label=Follow%20The%20Legend&logo=github)](https://github.com/AnkitKumar-222)
+[![Stars](https://img.shields.io/badge/⭐-Star%20My%20Repos-yellow?style=social)](https://github.com/AnkitKumar-222)
+
+</div>
+
+---
+
+### 🎮 **HIDDEN EASTER EGGS** 🎮
+
+> *Konami Code: ↑ ↑ ↓ ↓ ← → ← → B A* = Secret Projects Unlocked! 🔓
+
+*Last Compiled: 2026 | Version: LEGENDARY EDITION v2.0 | Status: 🚀 READY FOR LAUNCH*
