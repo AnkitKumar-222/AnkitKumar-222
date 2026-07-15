@@ -202,12 +202,3 @@ I'm **always excited** about:
 <p align="center">
   <strong>Made with ❤️ by Ankit Kumar | © 2026</strong>
 </p>
-
-
-<p align="center">
-  <i>💬 Always open to feedback, collaborations, and new opportunities. Let's build something amazing together!</i>
-</p>
-
-<p align="center">
-  <strong>Made with ❤️ by Ankit Kumar | © 2026</strong>
-</p>
