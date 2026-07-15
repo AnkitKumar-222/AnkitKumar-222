@@ -67,8 +67,8 @@
 
 <div align="center">
 
-### 🛒 **[E-Commerce Platform](https://github.com/AnkitKumar-222/ecommerce-app)**
-Full-stack e-commerce solution with React, Node.js, MongoDB, Stripe integration, and real-time inventory management.
+### 🛒 **[Travel_Planner_Agent](https://github.com/AnkitKumar-222/Travel_Planner_Agent)**
+Travel_Planner_Agent solution with Pythob, Panda .
 
 ### 💬 **[Real-Time Chat Application](https://github.com/AnkitKumar-222/chat-app)**
 WebSocket-based chat platform featuring real-time messaging, user authentication, and MongoDB persistence.
