@@ -1,127 +1,86 @@
-<h1 align="center">⚡ ANKIT KUMAR ⚡</h1>
-<h3 align="center">Full-Stack Developer (MERN) — React • Node.js • MongoDB</h3>
+<h1 align="center">Ankit Kumar</h1>
+<h3 align="center">Full-Stack Developer — React • Node.js • MongoDB</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=22&pause=1000&color=FF006E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%2B+Node.js+%2B+MongoDB;Turning+Coffee+Into+Code" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,100:0d1117&height=180&section=header&text=ANKIT%20KUMAR&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Banner" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E86DE&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;React+%2B+Node.js+%2B+MongoDB;Building+Clean%2C+Functional+Web+Apps" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧠 SYSTEM PROFILE
+### About Me
 
-```
-> whoami
-Full-stack developer — comfortable with React/Next.js, Node.js/Express, MongoDB/SQL
-> current_mission
-Sharpening DSA & competitive programming skills
-> status
-Always learning. Always shipping.
-```
+- 💼 Full-stack developer working across React/Next.js, Node.js/Express, and MongoDB/SQL
+- 🎯 Currently sharpening my DSA & competitive programming skills
+- 📄 [Resume](https://github.com/AnkitKumar-222/resume/blob/main/resume.pdf) &nbsp;|&nbsp; 📫 ankit.kumar.official115@gmail.com
 
 ---
 
-## 🚀 FLAGSHIP PROJECTS
+### Projects
 
-> ⚠️ Placeholder — drop in your real repo names, one-line descriptions, and live demo links (if any) and I'll swap these in.
+> Placeholder — send me your real project names, one-line descriptions, and live demo links to finalize this section.
 
-### 🛸 `PROJECT_NAME_1`
-> One-line description of what it does.
+**[Project Name 1](https://github.com/AnkitKumar-222/project1)**
+One-line description of what it does and the stack used. [Live Demo](#)
 
-**[→ REPO](https://github.com/AnkitKumar-222/project1)** &nbsp;|&nbsp; **[→ LIVE DEMO](#)**
+**[Project Name 2](https://github.com/AnkitKumar-222/project2)**
+One-line description of what it does and the stack used. [Live Demo](#)
 
-### 🛸 `PROJECT_NAME_2`
-> One-line description of what it does.
-
-**[→ REPO](https://github.com/AnkitKumar-222/project2)** &nbsp;|&nbsp; **[→ LIVE DEMO](#)**
-
-### 🛸 `PROJECT_NAME_3`
-> One-line description of what it does.
-
-**[→ REPO](https://github.com/AnkitKumar-222/project3)** &nbsp;|&nbsp; **[→ LIVE DEMO](#)**
+**[Project Name 3](https://github.com/AnkitKumar-222/project3)**
+One-line description of what it does and the stack used. [Live Demo](#)
 
 ---
 
-## 🎨 TECH STACK (actually used)
+### Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🎯 CURRENTLY LEVELING UP
-
-```
-[■■■■■■□□□□] DSA / Competitive Programming — in progress
-```
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🏆 CERTIFICATIONS & ACHIEVEMENTS
+### Certifications & Achievements
 
-> ⚠️ Placeholder — send me your certs/achievements and I'll list them here (name + issuing platform + link if any).
+> Placeholder — send me your certifications/achievements (name + issuing platform + link if any) and I'll list them here.
 
-- 📜 Certification Name — Issuing Platform
-- 📜 Certification Name — Issuing Platform
+- Certification Name — Issuing Platform
+- Certification Name — Issuing Platform
 
 ---
 
-## 💻 CODING PROFILES
+### Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/AnkitKumar-222)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/AnkitKumar-222)
+
+---
+
+### GitHub Stats
 
 <p align="center">
-  <a href="https://leetcode.com/AnkitKumar-222"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://codeforces.com/profile/AnkitKumar-222"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkitKumar-222&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitKumar-222&layout=compact&theme=default&hide_border=true" height="160" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AnkitKumar-222&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📊 STATS DASHBOARD
+### Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkitKumar-222&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF006E&icon_color=FF006E" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitKumar-222&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF006E" height="165" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AnkitKumar-222&theme=radical&hide_border=true&background=0D1117&stroke=FF006E&ring=FF006E&fire=FF006E" alt="GitHub Streak" />
-</p>
-
----
-
-## 📄 RESUME
-
-<p align="center">
-  <a href="https://github.com/AnkitKumar-222/resume/blob/main/resume.pdf">
-    <img src="https://img.shields.io/badge/RESUME-Download%20PDF-FF006E?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=000000" />
-  </a>
-</p>
-
-> ⚠️ Update the link above once your resume repo/file path is finalized (e.g. `github.com/AnkitKumar-222/resume/blob/main/resume.pdf`).
-
----
-
-## 🌐 CONNECT
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ankit-kumar-355147244"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" /></a>
-  <a href="https://x.com/AnkitKumar_dev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=FF006E" /></a>
-  <a href="https://www.instagram.com/a.k___ankittttt___03"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" /></a>
-  <a href="mailto:ankit.kumar.official115@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF006E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-kumar-355147244)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/AnkitKumar_dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/a.k___ankittttt___03)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ankit.kumar.official115@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnkitKumar-222&style=for-the-badge&color=FF006E&label=NEURAL+CONNECTIONS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AnkitKumar-222&style=flat-square&color=2E86DE&label=Profile+Views" alt="Profile Views" />
 </p>
-
-<p align="center"><b>⚡ TURNING COFFEE INTO CODE ⚡</b></p>
