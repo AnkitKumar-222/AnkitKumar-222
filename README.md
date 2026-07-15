@@ -111,16 +111,6 @@ Comprehensive Data Structures & Algorithms implementation in Java — 50+ algori
 - Focused on DSA optimization
 - Interview preparation
 
-### ⚡ Codeforces - Competitive Programming
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F1C3D?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/AnkitKumar-222)
-- Competitive programming contests
-- Algorithm mastery
-- Real-time problem solving
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
