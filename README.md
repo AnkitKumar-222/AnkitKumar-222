@@ -1,236 +1,89 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=45&duration=2000&pause=500&color=FF006E&center=true&vCenter=true&width=1000&height=120&lines=🔥+ANKIT+KUMAR+🔥;⚡+CYBERPUNK+DEVELOPER+⚡;🚀+CODE+NINJA+INCOMING+🚀;💻+READY+TO+DESTROY+BUGS+💻" alt="Typing SVG" />
+<h1 align="center">Hi, I'm Ankit Kumar 👋</h1>
+
+<h3 align="center">Full-Stack Developer | Building clean, functional web applications</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E86DE&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%26+Node.js+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🌀 **WELCOME TO THE DIGITAL REALM** 🌀
+### 🧑‍💻 About Me
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWoLvq1/giphy.gif" width="200" alt="Fire Animation"/>
-<img src="https://media.giphy.com/media/5eM8bO0psBgZa3u6Jl/giphy.gif" width="200" alt="Matrix"/>
-<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="200" alt="Hacker"/>
-
-</div>
+- 💼 Full-stack developer working across the MERN/Next.js ecosystem
+- 🔭 Currently building projects in web development and exploring new tools
+- 🌱 Always learning — currently leveling up my backend and system design skills
+- 💬 Ask me about React, Node.js, or JavaScript in general
+- 📫 Reach me at **ankit.kumar.official115@gmail.com**
 
 ---
 
-## ✨ **SYSTEM BOOT SEQUENCE**
+### 🛠️ Tech Stack
 
-<div align="center">
+**Frontend**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=1500&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=50&lines=⚡+INITIALIZING+NEURAL+NETWORK...;🔓+FIREWALL+BREACH+SUCCESSFUL...;💻+LOADING+DEVELOPER+MATRIX...;🎮+HACKER+MODE+ACTIVATED...;✅+ALL+SYSTEMS+GO!)](https://git.io/typing-svg)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-</div>
+**Backend**
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 📊 **REAL-TIME STATS DASHBOARD** 
+**Tools**
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AnkitKumar-222&show_icons=true&theme=radical&hide_border=true&title_color=FF006E&text_color=00FF00&icon_color=FF006E&bg_color=0d1117&cache_seconds=1800" alt="GitHub Stats" height="220"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnkitKumar-222&layout=compact&theme=radical&hide_border=true&title_color=FF006E&text_color=00FF00&bg_color=0d1117" alt="Top Languages" height="220"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitKumar-222&theme=radical&hide_border=true&stroke=FF006E&background=0D1117" alt="GitHub Streak" height="220"/>
-
-</div>
-
----
-
-## 🎨 **TECH ARSENAL - NEON EDITION**
-
-<div align="center">
-
-### 💥 **FRONTEND WARRIORS**
-
-<img src="https://media.giphy.com/media/eNAsjUP76GRo4/giphy.gif" width="40" alt="loading"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70" alt="React"/>
-<img width="20"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="70" alt="Next.js"/>
-<img width="20"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70" alt="HTML5"/>
-<img width="20"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70" alt="CSS3"/>
-<img width="20"/>
-<img src="https://media.giphy.com/media/eNAsjUP76GRo4/giphy.gif" width="40" alt="loading"/>
-
-### ⚙️ **BACKEND LEGENDS**
-
-<img src="https://media.giphy.com/media/eNAsjUP76GRo4/giphy.gif" width="40" alt="loading"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="JavaScript"/>
-<img width="20"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="70" alt="TypeScript"/>
-<img width="20"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" alt="Python"/>
-<img width="20"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="70" alt="Node.js"/>
-<img width="20"/>
-<img src="https://media.giphy.com/media/eNAsjUP76GRo4/giphy.gif" width="40" alt="loading"/>
-
-### 🛠️ **POWER TOOLS**
-
-<img src="https://media.giphy.com/media/eNAsjUP76GRo4/giphy.gif" width="40" alt="loading"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="70" alt="MongoDB"/>
-<img width="20"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="70" alt="Docker"/>
-<img width="20"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70" alt="Git"/>
-<img width="20"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="70" alt="VS Code"/>
-<img width="20"/>
-<img src="https://media.giphy.com/media/eNAsjUP76GRo4/giphy.gif" width="40" alt="loading"/>
-
-</div>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🌐 **CONNECT VIA THE NETWORK**
+### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkitKumar-222&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitKumar-222&layout=compact&theme=default&hide_border=true" height="165" alt="Top Languages" />
+</p>
 
-[![YouTube](https://img.shields.io/badge/🎬-YOUTUBE-FF0000?style=for-the-badge&labelColor=000000)](https://www.youtube.com/YOUR_CHANNEL)
-[![Instagram](https://img.shields.io/badge/📸-INSTAGRAM-E4405F?style=for-the-badge&labelColor=000000)](https://www.instagram.com/a.k___ankittttt___03?igsh=MWtuNmJnbDhlamNzbg==)
-[![Twitch](https://img.shields.io/badge/🎮-TWITCH-9146FF?style=for-the-badge&labelColor=000000)](https://x.com/AnkitKumar_dev)
-[![Discord](https://img.shields.io/badge/💬-DISCORD-7289DA?style=for-the-badge&labelColor=000000)](https://discord.gg/K3WV8kJ8)
-[![Email](https://img.shields.io/badge/✉️-EMAIL-FF006E?style=for-the-badge&labelColor=000000)](mailto:ankit.kumar.official115@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼-LINKEDIN-0077B5?style=for-the-badge&labelColor=000000)](https://www.linkedin.com/in/ankit-kumar-355147244)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AnkitKumar-222&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 🎯 **MISSION STATUS: IN PROGRESS**
+### 🚀 Featured Projects
 
-<div align="center">
+**[Project Name 1](https://github.com/AnkitKumar-222/project1)**
+Full-stack e-commerce application — replace with a one-line description of what it does and the stack used.
 
+**[Project Name 2](https://github.com/AnkitKumar-222/project2)**
+Real-time chat application — replace with a one-line description of what it does and the stack used.
 
+**[Project Name 3](https://github.com/AnkitKumar-222/project3)**
+Streaming platform — replace with a one-line description of what it does and the stack used.
 
-</div>
-
----
-
-## 🚀 **FLAGSHIP PROJECTS**
-
-<div align="center">
-
-### 🛸 **PROJECT ALPHA** 
-> **Full-Stack E-Commerce Powerhouse**
-
-[🚀 LAUNCH REPO](https://github.com/AnkitKumar-222/project1)
+> Swap these three placeholders for your actual repo names and descriptions whenever you're ready — everything else on the page will keep working as-is.
 
 ---
 
-### 🛸 **PROJECT BETA**
-> **Real-Time Chat Application**
+### 🌐 Connect With Me
 
-[🚀 LAUNCH REPO](https://github.com/AnkitKumar-222/project2)
-
----
-
-### 🛸 **PROJECT GAMMA**
-> **AI-Powered Streaming Platform**
-
- 
-[🚀 LAUNCH REPO](https://github.com/AnkitKumar-222/project3)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ankit-kumar-355147244"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/AnkitKumar_dev"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.instagram.com/a.k___ankittttt___03"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:ankit.kumar.official115@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 💀 **LEGENDARY STATS**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnkitKumar-222&style=flat-square&color=2E86DE&label=Profile+Views" alt="Profile Views" />
+</p>
 
-<div align="center">
-
-
-</div>
-
----
-
-## 🎪 **NEURAL NETWORK LIVE FEED**
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="300" alt="Hacker Mode"/>
-
-
-
-</div>
-
----
-
-## 🌟 **ABOUT THE LEGEND**
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/3o7TKvjxRbzyx1T5BS/giphy.gif" width="200" alt="Legendary"/>
-
-### *"Code like your life depends on it, because it does! ☕💻"*
-
-
-
-</div>
-
----
-
-## 🎁 **SPECIAL ABILITIES UNLOCKED**
-
-<div align="center">
-
-| Ability | Level | Mastery |
-|---------|-------|---------|
-| **Full-Stack Development** | 🟢🟢🟢🟢🟡 | 90% |
-| **Frontend Wizardry** | 🟢🟢🟢🟢🟢 | 95% |
-| **Backend Architecture** | 🟢🟢🟢🟢🟡 | 85% |
-| **Bug Destruction** | 🟢🟢🟢🟢🟢 | 99% |
-| **Problem Solving** | 🟢🟢🟢🟢🟡 | 88% |
-| **Coffee Brewing** | 🟢🟢🟢🟢🟢 | 100% |
-
-</div>
-
----
-
-## 📡 **NETWORK ACTIVITY MONITOR**
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=AnkitKumar-222&style=flat-square&color=FF006E&label=⚡_NEURAL_CONNECTIONS)
-
-</div>
-
----
-
-<div align="center">
-
-## 🔥 **LET'S CONQUER THE CODE WORLD TOGETHER** 🔥
-
-<img src="https://media.giphy.com/media/l0HlTy9x9JOcVlrOg/giphy.gif" width="250" alt="Epic Battle"/>
-
----
-
-### **`> INITIATING COLLABORATION SEQUENCE...`**
-
-
-
----
-
-### 🎬 **MADE WITH 🔥 PASSION, 💻 DEDICATION, & ☕ COFFEE**
-
-<img src="https://media.giphy.com/media/7FgYw9TAy3UX7o4m78/giphy.gif" width="200" alt="Magic"/>
-
----
-
-**STAY AWESOME. KEEP CODING. NEVER STOP LEARNING.** 🚀
-
-[![GitHub followers](https://img.shields.io/github/followers/AnkitKumar-222?style=social&label=Follow%20The%20Legend&logo=github)](https://github.com/AnkitKumar-222)
-[![Stars](https://img.shields.io/badge/⭐-Star%20My%20Repos-yellow?style=social)](https://github.com/AnkitKumar-222)
-
-</div>
-
----
-
-### 🎮 **HIDDEN EASTER EGGS** 🎮
-
-> *Konami Code: ↑ ↑ ↓ ↓ ← → ← → B A* = Secret Projects Unlocked! 🔓
-
-*Last Compiled: 2026 | Version: LEGENDARY EDITION v2.0 | Status: 🚀 READY FOR LAUNCH*
+<p align="center"><i>Thanks for stopping by — always open to collaborating on interesting projects.</i></p>
