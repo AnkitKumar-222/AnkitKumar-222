@@ -85,19 +85,6 @@ Comprehensive Data Structures & Algorithms implementation in Java — interview-
 
 ---
 
-## 📈 Key Skills & Expertise
-
-| Category | Skills | Proficiency |
-|----------|--------|-------------|
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, Redux | ⭐⭐⭐⭐⭐ |
-| **Backend** | Node.js, Express, REST APIs, Authentication | ⭐⭐⭐⭐⭐ |
-| **Databases** | MongoDB, PostgreSQL, Firebase, Redis | ⭐⭐⭐⭐☆ |
-| **DevOps & Tools** | Docker, Git, GitHub Actions, Deployment | ⭐⭐⭐⭐☆ |
-| **DSA & Algorithms** | Java, Problem-Solving, System Design | ⭐⭐⭐⭐☆ |
-| **Problem-Solving** | Debugging, Optimization, Architecture | ⭐⭐⭐⭐⭐ |
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
