@@ -76,7 +76,7 @@ WebSocket-based chat platform featuring real-time messaging, user authentication
 ### 🎬 **[Streaming Platform](https://github.com/AnkitKumar-222/streaming-platform)**
 Video streaming application built with Next.js, Firebase, and FFmpeg for multi-format video support.
 
-### 📚 **[Java DSA Mastery](https://github.com/AnkitKumar-222/java-dsa)**
+### 📚 **[Java DSA Mastery](https://github.com/AnkitKumar-222/-Data-Structures-Algorithms-DSA-with-Java)**
 Comprehensive Data Structures & Algorithms implementation in Java — interview-ready solutions with complexity analysis.
 
 > 🔗 **[View All Projects →](https://github.com/AnkitKumar-222?tab=repositories)**
@@ -88,7 +88,7 @@ Comprehensive Data Structures & Algorithms implementation in Java — interview-
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ankit-kumar-355147244">
+  <a href="https://www.linkedin.com/in/ankit-kumar-355147244?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/AnkitKumar_dev">
